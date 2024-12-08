@@ -56,3 +56,5 @@ group :development do
   gem "web-console"
 end
 
+
+gem "stripe", "~> 13.2"
