@@ -57,4 +57,4 @@ group :development do
 end
 
 
-gem "stripe", "~> 13.2"
+gem "stripe", "~> 15.2"
